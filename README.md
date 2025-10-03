@@ -1,6 +1,6 @@
 <div>
   <h1>Click on the GitHub icon below to view the project online.</h1>
-  <a href="https://your-github-link-here">
+  <a href="https://hamiparsa.github.io/My-Restaurant/">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
